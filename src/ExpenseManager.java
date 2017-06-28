@@ -50,18 +50,7 @@ public class ExpenseManager {
     public void modifyEntry(){
 
     }
-    public void DeleteEntry(int DeleteId) throws IOException{
-    	
-//    	for(int i=0;i<expenceTracker.expenses.size();i=i+5){
-//    		if(Integer.parseInt(expenceTracker.expenses.get(i))==DeleteId){
-//    			Delete1(Integer.toString(DeleteId));
-//    			//Delete(expenceTracker.expenses.get(i+1));
-////    			Delete(expenceTracker.expenses.get(i+2));
-////    			Delete(expenceTracker.expenses.get(i+3));
-////    			Delete(expenceTracker.expenses.get(i+4));
-//    		}
-//    	}
-    }
+    
 	private void Delete1(String string) {
 		// TODO Auto-generated method stub
 		try{
